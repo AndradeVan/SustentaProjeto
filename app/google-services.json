@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1047119290959",
+    "firebase_url": "https://projeto-mallet-golf.firebaseio.com",
+    "project_id": "projeto-mallet-golf",
+    "storage_bucket": "projeto-mallet-golf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047119290959:android:218ea42f5d9cc2e4",
+        "android_client_info": {
+          "package_name": "projeto.ufscar.com.br.malletgolf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047119290959-24m03t0hn7kgnf7i7pe3urmug6au4um4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "projeto.ufscar.com.br.malletgolf",
+            "certificate_hash": "c84aeaf2af886a72b82fcaa2ed7c53d36f93b362"
+          }
+        },
+        {
+          "client_id": "1047119290959-gb12lloef4aqf9joev5h735ljq0drfgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUHXrQsm0ixnoM5tDdss9QpPTbtAjTulY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047119290959-gb12lloef4aqf9joev5h735ljq0drfgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
