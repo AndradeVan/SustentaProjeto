@@ -1,2 +1,0 @@
-# SustentaProjeto
-Sustentabilidade
